@@ -1,20 +1,23 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 What's up?
 
 ###
 
-<p align="left">My name is mauuricee (no it's not my real name), I'm from France and I spend my time by working on some projects!</p>
+My name is mauuricee (no it's not my real name), I'm from France and I spend my time by working on some projects!
 
 ###
 
-<h2 align="left">About me</h2>
+## About me
 
 ###
 
-<p align="left">✨ Talented to create bugs since 10+ years<br>📚 Currently studying in college<br>🎯 Goal: Release and maintain my own Discord bot<br>🎲 Fun fact: I'll die for strawberry lemonade Iced tea</p>
+✨ Talented to create bugs since 10+ years
+📚 Currently studying in college
+🎯 Goal: Release and maintain my own Discord bot
+🎲 Fun fact: I'll die for strawberry lemonade Iced tea
 
 ###
 
-<h2 align="left">I code with</h2>
+## I code with
 
 ###
 
@@ -42,7 +45,7 @@
 
 ###
 
-<h2 align="left">My little baby</h2>
+## My little baby
 
 ###
 
@@ -52,11 +55,15 @@
 
 ###
 
-<p align="left">DM-Tickets is a Discord bot that allows servers owners to manage and simplify support for their communities.<br><br>This includes the bot on Discord, a static website and a web dashboard to manage tickets and bot settings for any guild that added DM-Tickets.</p>
+DM-Tickets is a Discord bot that allows servers owners to manage and simplify support for their communities.
+
+This includes the bot on Discord, a static website and a web dashboard to manage tickets and bot settings for any guild that added DM-Tickets.
 
 ###
 
-<p align="left">[Web dashboard](https://web.dm-tickets.app)<br>[Static website](https://dm-tickets.app/)<br>[Bot invitation link](https://web.dm-tickets.app/invite)</p>
+[Web dashboard](https://web.dm-tickets.app)
+[Static website](https://dm-tickets.app/)
+[Bot invitation link](https://web.dm-tickets.app/invite)
 
 ###
 
@@ -76,6 +83,6 @@
 
 ###
 
-<p align="left">Feel free to message me on Discord : tapirrebeu<br><br>ℹ️ For any problem with DM-Tickets, please go to the [support server](https://discord.gg/QyGMXz8b4h)</p>
+Feel free to message me on Discord : tapirrebeu<br><br>ℹ️ For any problem with DM-Tickets, please go to the [support server](https://discord.gg/QyGMXz8b4h)
 
 ###
