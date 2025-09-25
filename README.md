@@ -61,21 +61,9 @@ This includes the bot on Discord, a static website and a web dashboard to manage
 
 ###
 
-[Web dashboard](https://web.dm-tickets.app)
-[Static website](https://dm-tickets.app/)
+[Web dashboard](https://web.dm-tickets.app) <br>
+[Static website](https://dm-tickets.app/) <br>
 [Bot invitation link](https://web.dm-tickets.app/invite)
-
-###
-
-<h2 align="left">Beep beep</h2>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauuricee/mauuricee/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauuricee/mauuricee/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mauuricee/mauuricee/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
