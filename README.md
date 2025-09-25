@@ -10,10 +10,10 @@ My name is mauuricee (no it's not my real name), I'm from France and I spend my 
 
 ###
 
-✨ Talented to create bugs since 10+ years
-📚 Currently studying in college
-🎯 Goal: Release and maintain my own Discord bot
-🎲 Fun fact: I'll die for strawberry lemonade Iced tea
+✨ Talented to create bugs since 10+ years<br>
+📚 Currently studying in college<br>
+🎯 Goal: Release and maintain my own Discord bot<br>
+🎲 Fun fact: I'll die for strawberry lemonade Iced tea<br>
 
 ###
 
